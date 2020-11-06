@@ -1,0 +1,31 @@
+h1, h2 {
+    background-color: lightslategray;
+    color: navy;
+    font-size: 2em;
+}
+body {
+    background-color: wheat;
+    font-size: 18px;
+}
+div {
+    color: black;
+    background-color: cornsilk;
+    padding: 10%;
+    text-align: center;
+    margin: 50px;
+}
+.destacado {
+    color: crimson;
+    text-align: center;
+    text-decoration: none;
+}
+table {
+    border: 3px solid;
+}
+ul.b {
+    list-style-type: lower-roman;
+    
+}
+li.c {
+    font-family: cursive;
+}
